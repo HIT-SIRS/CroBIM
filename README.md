@@ -31,7 +31,7 @@ Given a natural language expression and a remote sensing image, the goal of refe
     <img src="assets/dataset.svg" alt="VRSBench is a Versatile Vision-Language Benchmark for Remote Sensing Image Understanding.">
 </center>
 
-RISBench is a large-scale Vision-Language Benchmark for Referring Remote Sensing Image Segmentation. It comprises 52,472 high-quality image-language label triplets. Each image in RISBench is uniformly sized at 512$\times$512 pixels, maintaining consistency across the dataset. The spatial resolution of the images spans from 0.1m to 30m, encompassing a diverse range of scales and details. The semantic labels are categorized into 26 distinct classes, each annotated with 8 attributes, thereby facilitating a comprehensive and nuanced semantic segmentation analysis. 
+RISBench is a large-scale Vision-Language Benchmark for Referring Remote Sensing Image Segmentation. It comprises 52,472 high-quality image-language label triplets. Each image in RISBench is uniformly sized at 512x512 pixels, maintaining consistency across the dataset. The spatial resolution of the images spans from 0.1m to 30m, encompassing a diverse range of scales and details. The semantic labels are categorized into 26 distinct classes, each annotated with 8 attributes, thereby facilitating a comprehensive and nuanced semantic segmentation analysis. 
 
 The dataset can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1TniZrKqa2BBGvZ5sJAnsAw?pwd=wnxg) (access code: wnxg).
 
