@@ -13,7 +13,7 @@
 
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2312.02896-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.06811)
+[![arXiv](https://img.shields.io/badge/Arxiv-2312.02896-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2410.08613)
 
 ## 🗓️ TODO
 - [ ] Release code and models of our methods.
@@ -47,10 +47,10 @@ The dataset is released under the [CC-BY-4.0]([https://creativecommons.org/licen
 ## 📜 Citation
 if you find it helpful, please cite
 ```bibtex
-@article{li2024vrsbench,
-  title={VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding},
-  author={Xiang Li, Jian Ding, and Mohamed Elhoseiny},
-  journal={arXiv:2406.12384},
+@article{dong2024cross,
+  title={Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation},
+  author={Zhe Dong, Yuzhe Sun, Yanfeng Gu and Tianzhu Liu},
+  journal={arXiv:2410.08613},
   year={2024}
 }
 ```
