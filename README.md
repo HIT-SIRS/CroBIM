@@ -56,7 +56,7 @@ if you find it helpful, please cite
 ```
 
 ## 🙏 Acknowledgement
-Our VRSBench dataset is built based on [VRSBench](https://https://github.com/lx709/VRSBench), [DOTA-v2](https://captain-whu.github.io/DOTA/dataset.html) and [DIOR](https://gcheng-nwpu.github.io/#Datasets) datasets.
+Our RISBench dataset is built based on [VRSBench](https://https://github.com/lx709/VRSBench), [DOTA-v2](https://captain-whu.github.io/DOTA/dataset.html) and [DIOR](https://gcheng-nwpu.github.io/#Datasets) datasets.
 
 We are thankful to [LAVT](https://github.com/yz93/LAVT-RIS), and [RMSIN](https://github.com/Lsan2401/RMSIN) for releasing their models and code as open-source contributions.
 
